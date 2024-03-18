@@ -1,0 +1,52 @@
+.general-Dashboard[b-2qjg7rv6yy]{
+    width: 100%;
+}
+.title[b-2qjg7rv6yy]{
+    font-size: 1.2rem;  
+    margin:10px;
+   margin-left: 0;
+   margin-right: 0;
+}
+
+.Container-1[b-2qjg7rv6yy] {
+    width: 100%;
+    display: flex;
+    display: inline-block;
+    
+}
+.sub-Container1[b-2qjg7rv6yy] {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+.sub-Container2[b-2qjg7rv6yy] {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.sub-Container3[b-2qjg7rv6yy] {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;  
+}
+.sub-Container4[b-2qjg7rv6yy] {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+.card[b-2qjg7rv6yy] {
+    width: 20%;
+    height: 25vh;
+    border-radius: 10px;
+}
+.card2[b-2qjg7rv6yy] {
+    width: 40%;
+    height: 25vh;
+    border-radius: 10px;
+    border: 1px solid #000;
+}

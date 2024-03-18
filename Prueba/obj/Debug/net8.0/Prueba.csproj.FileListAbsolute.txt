@@ -1,0 +1,2064 @@
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\dotnet.js
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.map
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.8.0.3.9nm7bajy7e.js
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.8.0.3.d2kvxvq3vc.js
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.js.map
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\icudt_CJK.dat
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.CSharp.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Logging.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Options.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Primitives.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.JSInterop.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.VisualBasic.Core.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.VisualBasic.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Win32.Primitives.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Win32.Registry.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\mscorlib.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\netstandard.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Prueba.pdb
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Prueba.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.AppContext.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Buffers.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Collections.Concurrent.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Collections.Immutable.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Collections.NonGeneric.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Collections.Specialized.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Collections.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.Annotations.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.Primitives.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.TypeConverter.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Configuration.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Console.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Core.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Data.Common.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Data.DataSetExtensions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Data.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Contracts.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Debug.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Process.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.StackTrace.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Tools.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.TraceSource.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Tracing.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Drawing.Primitives.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Drawing.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Dynamic.Runtime.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Formats.Asn1.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Formats.Tar.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Globalization.Calendars.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Globalization.Extensions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Globalization.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.Brotli.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.FileSystem.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.ZipFile.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.Primitives.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.Watcher.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.IsolatedStorage.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.MemoryMappedFiles.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Pipelines.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Pipes.AccessControl.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Pipes.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Expressions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Parallel.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Queryable.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Linq.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Memory.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Http.Json.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Http.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.HttpListener.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Mail.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.NameResolution.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.NetworkInformation.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Ping.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Primitives.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Quic.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Requests.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Security.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.ServicePoint.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Sockets.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebClient.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebHeaderCollection.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebProxy.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebSockets.Client.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebSockets.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Numerics.Vectors.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Numerics.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ObjectModel.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Private.CoreLib.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Private.DataContractSerialization.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Private.Uri.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Private.Xml.Linq.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Private.Xml.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.DispatchProxy.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Emit.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Extensions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Metadata.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Primitives.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.TypeExtensions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Resources.Reader.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Resources.ResourceManager.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Resources.Writer.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Extensions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Handles.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Intrinsics.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Loader.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Numerics.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Json.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Xml.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.AccessControl.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Claims.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Cng.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Csp.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Encoding.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Primitives.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Principal.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Principal.Windows.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.SecureString.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ServiceModel.Web.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ServiceProcess.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encoding.CodePages.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encoding.Extensions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encoding.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encodings.Web.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Text.Json.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Text.RegularExpressions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Channels.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Overlapped.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.Extensions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.Parallel.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Thread.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.ThreadPool.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Timer.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Transactions.Local.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Transactions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ValueTuple.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Web.HttpUtility.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Web.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Windows.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.Linq.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.ReaderWriter.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.Serialization.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XDocument.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XmlDocument.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XmlSerializer.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XPath.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XPath.XDocument.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\WindowsBase.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encoding.CodePages.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.map.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ServiceProcess.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.SecureString.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Resources.ResourceManager.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XPath.XDocument.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Web.HttpUtility.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Sockets.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Core.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Thread.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Primitives.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Drawing.Primitives.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.ThreadPool.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Transactions.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Claims.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Cng.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Logging.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Primitives.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XmlDocument.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Transactions.Local.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Collections.Immutable.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Http.Json.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Collections.Specialized.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Encoding.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Collections.Concurrent.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.js.map.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Win32.Primitives.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebSockets.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Queryable.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Parallel.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Http.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encodings.Web.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Metadata.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Quic.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.TypeExtensions.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.Brotli.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Requests.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Tracing.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Principal.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Process.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.DispatchProxy.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Win32.Registry.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ValueTuple.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.8.0.3.9nm7bajy7e.js.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.NameResolution.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Private.Uri.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Emit.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ObjectModel.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.ReaderWriter.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.Extensions.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.MemoryMappedFiles.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Loader.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.TraceSource.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Web.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XPath.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.8.0.3.d2kvxvq3vc.js.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.TypeConverter.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Linq.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Intrinsics.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Contracts.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebClient.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Pipes.AccessControl.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Resources.Writer.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encoding.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Numerics.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ServiceModel.Web.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.ServicePoint.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebHeaderCollection.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.CSharp.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Json.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Globalization.Extensions.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.VisualBasic.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.Linq.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Timer.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.Annotations.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.Watcher.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.HttpListener.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.JSInterop.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Text.RegularExpressions.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Private.Xml.Linq.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Extensions.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Formats.Asn1.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Numerics.Vectors.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\netstandard.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Debug.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Mail.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Prueba.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Text.Json.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Windows.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Globalization.Calendars.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Memory.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Private.DataContractSerialization.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Csp.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Collections.NonGeneric.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Primitives.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XDocument.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Data.DataSetExtensions.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Ping.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\mscorlib.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Handles.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Overlapped.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebSockets.Client.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Security.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Formats.Tar.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.FileSystem.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.StackTrace.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Prueba.pdb.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.Serialization.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.AppContext.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Dynamic.Runtime.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Primitives.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encoding.Extensions.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.VisualBasic.Core.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Pipelines.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Extensions.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Numerics.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Expressions.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebProxy.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Principal.Windows.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.IsolatedStorage.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Data.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Configuration.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.Primitives.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Tools.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Console.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Resources.Reader.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Globalization.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Buffers.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Collections.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.AccessControl.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Private.CoreLib.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.Parallel.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Private.Xml.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.ZipFile.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.Primitives.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Options.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\WindowsBase.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Xml.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XmlSerializer.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Channels.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.NetworkInformation.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Pipes.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Drawing.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Data.Common.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.wasm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Prueba.staticwebassets.runtime.json
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Prueba.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Prueba.pdb
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.CSharp.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.VisualBasic.Core.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.VisualBasic.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Win32.Primitives.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Win32.Registry.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.AppContext.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Buffers.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Collections.Concurrent.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Collections.Immutable.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Collections.NonGeneric.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Collections.Specialized.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Collections.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.ComponentModel.Annotations.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.ComponentModel.DataAnnotations.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.ComponentModel.EventBasedAsync.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.ComponentModel.Primitives.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.ComponentModel.TypeConverter.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.ComponentModel.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Configuration.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Console.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Core.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Data.Common.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Data.DataSetExtensions.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Data.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Diagnostics.Contracts.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Diagnostics.Debug.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Diagnostics.FileVersionInfo.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Diagnostics.Process.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Diagnostics.StackTrace.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Diagnostics.TextWriterTraceListener.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Diagnostics.Tools.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Diagnostics.TraceSource.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Diagnostics.Tracing.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Drawing.Primitives.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Drawing.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Dynamic.Runtime.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Formats.Tar.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Globalization.Calendars.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Globalization.Extensions.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Globalization.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.IO.Compression.Brotli.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.IO.Compression.FileSystem.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.IO.Compression.ZipFile.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.IO.Compression.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.IO.FileSystem.AccessControl.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.IO.FileSystem.DriveInfo.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.IO.FileSystem.Primitives.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.IO.FileSystem.Watcher.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.IO.FileSystem.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.IO.IsolatedStorage.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.IO.MemoryMappedFiles.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.IO.Pipes.AccessControl.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.IO.Pipes.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.IO.UnmanagedMemoryStream.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.IO.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Linq.Expressions.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Linq.Parallel.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Linq.Queryable.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Linq.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Memory.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Net.Http.Json.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Net.Http.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Net.HttpListener.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Net.Mail.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Net.NameResolution.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Net.NetworkInformation.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Net.Ping.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Net.Primitives.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Net.Quic.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Net.Requests.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Net.Security.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Net.ServicePoint.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Net.Sockets.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Net.WebClient.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Net.WebHeaderCollection.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Net.WebProxy.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Net.WebSockets.Client.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Net.WebSockets.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Net.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Numerics.Vectors.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Numerics.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.ObjectModel.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Private.DataContractSerialization.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Private.Uri.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Private.Xml.Linq.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Private.Xml.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Reflection.DispatchProxy.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Reflection.Emit.ILGeneration.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Reflection.Emit.Lightweight.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Reflection.Emit.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Reflection.Extensions.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Reflection.Metadata.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Reflection.Primitives.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Reflection.TypeExtensions.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Reflection.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Resources.Reader.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Resources.ResourceManager.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Resources.Writer.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.CompilerServices.VisualC.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.Extensions.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.Handles.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.InteropServices.JavaScript.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.InteropServices.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.Intrinsics.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.Loader.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.Numerics.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.Serialization.Formatters.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.Serialization.Json.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.Serialization.Primitives.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.Serialization.Xml.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.Serialization.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Security.AccessControl.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Security.Claims.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Security.Cryptography.Algorithms.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Security.Cryptography.Cng.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Security.Cryptography.Csp.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Security.Cryptography.Encoding.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Security.Cryptography.OpenSsl.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Security.Cryptography.Primitives.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Security.Cryptography.X509Certificates.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Security.Cryptography.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Security.Principal.Windows.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Security.Principal.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Security.SecureString.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Security.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.ServiceModel.Web.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.ServiceProcess.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Text.Encoding.CodePages.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Text.Encoding.Extensions.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Text.Encoding.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Text.Json.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Text.RegularExpressions.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Threading.Channels.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Threading.Overlapped.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Threading.Tasks.Dataflow.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Threading.Tasks.Extensions.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Threading.Tasks.Parallel.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Threading.Tasks.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Threading.Thread.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Threading.ThreadPool.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Threading.Timer.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Threading.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Transactions.Local.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Transactions.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.ValueTuple.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Web.HttpUtility.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Web.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Windows.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Xml.Linq.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Xml.ReaderWriter.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Xml.Serialization.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Xml.XDocument.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Xml.XPath.XDocument.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Xml.XPath.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Xml.XmlDocument.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Xml.XmlSerializer.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Xml.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\WindowsBase.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\mscorlib.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\netstandard.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\System.Private.CoreLib.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\dotnet.js
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\dotnet.js.map
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\dotnet.native.js
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\dotnet.native.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\dotnet.runtime.js
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\dotnet.runtime.js.map
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\icudt_CJK.dat
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\icudt_EFIGS.dat
+C:\Juan Manuel Castaño\Prueba\Prueba\bin\Debug\net8.0\icudt_no_CJK.dat
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\Prueba.csproj.AssemblyReference.cache
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\Prueba.AssemblyInfoInputs.cache
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\Prueba.AssemblyInfo.cs
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\Prueba.csproj.CoreCompileInputs.cache
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\Prueba.MvcApplicationPartsAssemblyInfo.cache
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Authorization.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.Forms.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.Web.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.WebAssembly.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Metadata.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.Configuration.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.Configuration.Abstractions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.Configuration.Binder.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.Configuration.FileExtensions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.Configuration.Json.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.DependencyInjection.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.DependencyInjection.Abstractions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.FileProviders.Abstractions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.FileProviders.Physical.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.FileSystemGlobbing.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.Logging.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.Logging.Abstractions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.Options.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.Primitives.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.JSInterop.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.JSInterop.WebAssembly.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.Pipelines.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.CSharp.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.VisualBasic.Core.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.VisualBasic.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Win32.Primitives.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Win32.Registry.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.AppContext.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Buffers.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Collections.Concurrent.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Collections.Immutable.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Collections.NonGeneric.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Collections.Specialized.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Collections.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.ComponentModel.Annotations.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.ComponentModel.DataAnnotations.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.ComponentModel.EventBasedAsync.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.ComponentModel.Primitives.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.ComponentModel.TypeConverter.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.ComponentModel.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Configuration.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Console.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Core.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Data.Common.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Data.DataSetExtensions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Data.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Diagnostics.Contracts.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Diagnostics.Debug.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Diagnostics.DiagnosticSource.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Diagnostics.FileVersionInfo.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Diagnostics.Process.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Diagnostics.StackTrace.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Diagnostics.TextWriterTraceListener.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Diagnostics.Tools.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Diagnostics.TraceSource.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Diagnostics.Tracing.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Drawing.Primitives.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Drawing.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Dynamic.Runtime.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Formats.Asn1.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Formats.Tar.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Globalization.Calendars.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Globalization.Extensions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Globalization.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.Compression.Brotli.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.Compression.FileSystem.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.Compression.ZipFile.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.Compression.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.FileSystem.AccessControl.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.FileSystem.DriveInfo.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.FileSystem.Primitives.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.FileSystem.Watcher.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.FileSystem.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.IsolatedStorage.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.MemoryMappedFiles.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.Pipes.AccessControl.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.Pipes.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.UnmanagedMemoryStream.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Linq.Expressions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Linq.Parallel.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Linq.Queryable.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Linq.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Memory.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.Http.Json.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.Http.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.HttpListener.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.Mail.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.NameResolution.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.NetworkInformation.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.Ping.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.Primitives.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.Quic.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.Requests.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.Security.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.ServicePoint.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.Sockets.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.WebClient.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.WebHeaderCollection.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.WebProxy.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.WebSockets.Client.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.WebSockets.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Numerics.Vectors.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Numerics.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.ObjectModel.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Private.DataContractSerialization.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Private.Uri.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Private.Xml.Linq.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Private.Xml.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Reflection.DispatchProxy.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Reflection.Emit.ILGeneration.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Reflection.Emit.Lightweight.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Reflection.Emit.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Reflection.Extensions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Reflection.Metadata.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Reflection.Primitives.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Reflection.TypeExtensions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Reflection.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Resources.Reader.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Resources.ResourceManager.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Resources.Writer.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.CompilerServices.Unsafe.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.CompilerServices.VisualC.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.Extensions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.Handles.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.InteropServices.JavaScript.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.InteropServices.RuntimeInformation.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.InteropServices.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.Intrinsics.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.Loader.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.Numerics.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.Serialization.Formatters.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.Serialization.Json.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.Serialization.Primitives.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.Serialization.Xml.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.Serialization.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.AccessControl.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.Claims.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.Cryptography.Algorithms.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.Cryptography.Cng.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.Cryptography.Csp.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.Cryptography.Encoding.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.Cryptography.OpenSsl.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.Cryptography.Primitives.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.Cryptography.X509Certificates.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.Cryptography.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.Principal.Windows.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.Principal.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.SecureString.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.ServiceModel.Web.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.ServiceProcess.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Text.Encoding.CodePages.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Text.Encoding.Extensions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Text.Encoding.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Text.Encodings.Web.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Text.Json.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Text.RegularExpressions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Threading.Channels.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Threading.Overlapped.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Threading.Tasks.Dataflow.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Threading.Tasks.Extensions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Threading.Tasks.Parallel.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Threading.Tasks.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Threading.Thread.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Threading.ThreadPool.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Threading.Timer.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Threading.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Transactions.Local.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Transactions.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.ValueTuple.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Web.HttpUtility.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Web.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Windows.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Xml.Linq.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Xml.ReaderWriter.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Xml.Serialization.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Xml.XDocument.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Xml.XPath.XDocument.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Xml.XPath.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Xml.XmlDocument.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Xml.XmlSerializer.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Xml.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\WindowsBase.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\mscorlib.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\netstandard.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Private.CoreLib.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\webcil\Prueba.wasm
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\blazor.build.boot-extension.json
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\blazor.boot.json
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\staticwebassets.build.json
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\staticwebassets.development.json
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\staticwebassets\msbuild.Prueba.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\staticwebassets\msbuild.build.Prueba.props
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Prueba.props
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Prueba.props
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\scopedcss\Layout\MainLayout.razor.rz.scp.css
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\scopedcss\Layout\NavMenu.razor.rz.scp.css
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\scopedcss\bundle\Prueba.styles.css
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\scopedcss\projectbundle\Prueba.bundle.scp.css
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\4vdz71ptpd.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\dokv7m23i7.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\0r8ug8lmtn.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\va9s50c9ha.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\o5ml1mf9fu.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\py90b431fs.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\6q33s3djtp.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\5fp8b67i2t.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\zbv1bgxzmb.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\mwudte5xwp.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\girs7iem01.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\w9yrqlehvz.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\jxih2pmogr.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\qsw6k33s9k.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\6dwv1dgu0s.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\uvw1c8sz3f.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\e3xx4xc5ma.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\33dz5ig8q2.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\p3oy5oz8q5.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\x2mwr1c5fz.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\sil3i8b66e.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\j7u8dt1h7f.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\k7mtt28qzg.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\t4pzxk93na.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\gmer62gqco.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\t36wq81owb.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\i2cbq85grb.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\5s9y6h2w82.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\90aceglyn4.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\s35myybscg.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\vp4y70u6zr.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\4wcqvd7bl4.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\3wln4kctkj.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\mn0mtp3eau.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\48y9hxxhf3.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\w0y76dzqjg.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\ipppld6yj6.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\35kwwzinz5.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\ail26kyfl3.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\wuhysye496.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\dlkyrzhu5o.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\kyn4s0r83l.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\uefd0vfsum.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\vc6tbuzsbh.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\1m6xlh6bgy.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\zd50xvak8o.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\o1r2beaaku.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\ubk27v0ewx.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\eg93mx2yag.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\k15mig4y9t.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\xjg06f5rik.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\l2bmdua3gr.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\8asdiljk23.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\rbfsoszr5n.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\07435uxb4r.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\uqglgjmuei.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\cp5tmcdqvz.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\7y3luz72g7.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\25t3zb8laj.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\ysghacnyn6.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\s691jt7zgi.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\jsh7l6vdbw.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\qho9k5cye8.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\macy2wmgz7.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\hr4bg175ij.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\vhb7knxald.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\7m5ajq11rk.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\qq79vaan79.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\wmwawjj4v9.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\d936210o1j.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\3ykh5q9f49.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\xsyg71jz8z.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\uhuqya3ixh.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\iwookbwakn.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\pc1lsi17ul.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\txz9ma7o9i.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\bzsk6wydef.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\eyw2pyuphv.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\ykpcyjb65o.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\6cq8ji7azq.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\vp6l4k620y.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\tgpo77lbkf.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\6et27yejox.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\66x24kaj2i.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\e5hrvk3drp.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\mgbqwrvi6h.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\42kvspdwql.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\6ioif0tzbf.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\iysaw419in.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\kkto6j6v9q.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\9vpom9b3bs.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\yh5ub47o12.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\oo7xy1knhj.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\3d0dub5db1.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\7861ulu4et.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\7oqymsnz1m.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\q6a9m3p6wa.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\g1pst59fs5.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\1i4v6iaj6v.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\euvznizqi1.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\gkb5r29v0k.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\th8sbxr3tf.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\p426jssu6y.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\5uped1wucz.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\21wb0puq61.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\jw3fi26owt.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\fb51zjvv73.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\asyntx9d2o.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\mgfrjh0w0n.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\ae1etfjjre.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\jiz58ae932.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\wm94uw9wnw.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\8o9l4wo9fz.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\us6enyvy3a.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\jjz3ij9jok.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\amgxonidcl.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\jpbqiar4d2.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\70wn058tca.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\20fn4oa8hn.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\7bz4wf12cw.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\f1a7cwaej2.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\vh3x0htxrg.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\0ymbgkdv7q.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\ezcpwndthk.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\jknumahu6i.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\w7unfucpvl.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\t5sz8z8hh8.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\oxv3g19mqe.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\jmxvimqmi6.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\b53g925er7.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\s5vvbfm9b3.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\e8kabdcnui.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\c2fkzgblwi.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\tadwlcorsg.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\zqxpoldh26.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\hpjwxv9ce7.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\kkw2c3ve2g.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\xe2l9ic423.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\z59y4w9l2z.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\ja5mx3cyzv.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\w14ear4501.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\2s1wgjs9bd.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\ftc937fgev.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\2why9fxyci.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\mhnewope2q.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\4qm8ukaxi5.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\pwq6rdtc8t.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\mrce2tv5r5.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\9af88nvggm.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\zvdfl7fvym.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\th9d7cnqe9.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\88ovecpvxa.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\0l3yrft9qd.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\te5dcr81j7.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\fmjj9ibbve.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\0jhjyp92vp.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\0bayjcemx0.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\sjcwpimqre.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\f2xho5gzyt.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\6y9hbhhnzt.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\m4bcco4qki.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\j97vh613di.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\y53e7qhkq4.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\p32106ofxq.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\vdlu0i7hjs.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\bq7f45w05z.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\waowijqael.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\4ttr0s2bki.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\1xu4sevdad.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\27tnwek7yn.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\i6jwh9wk08.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\tavzyv72ce.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\3mr0bji0pa.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\2ast2o30ha.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\93az1h07gv.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\1cyfil2eyl.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\cvfugkkfea.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\m4n1pbel51.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\i56pwqil9h.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\bhz39ry96o.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\rs98m2dbbs.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\n45dgbpzyq.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\17d08mgoyj.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\cz6vs7vicl.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\3i2j11bgb0.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\xiad2bgkdf.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\z21qys0ph0.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\51ut6b1c1h.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\x7yg8htbzh.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\oo8ukojyr5.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\jww8cco0sp.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\w80yixdcto.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\i92xn63rpo.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\0enqgz1v45.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\9nm7bajy7e.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\cw94iepz82.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\d2kvxvq3vc.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\51ysl5o3uf.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\slmlkzssub.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\gngxvh6plu.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\59ip1fnhyx.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\ldf2f973qt.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\rkcmqaz0dz.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\compressed\fveyapdap7.gz
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\Prueba.csproj.Up2Date
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\Prueba.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\refint\Prueba.dll
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\Prueba.pdb
+C:\Juan Manuel Castaño\Prueba\Prueba\obj\Debug\net8.0\ref\Prueba.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\dotnet.js
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.map
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.8.0.3.9nm7bajy7e.js
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.8.0.3.d2kvxvq3vc.js
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.js.map
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\icudt_CJK.dat
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\icudt_EFIGS.dat
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\icudt_no_CJK.dat
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.CSharp.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Logging.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Options.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Primitives.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.JSInterop.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.VisualBasic.Core.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.VisualBasic.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Win32.Primitives.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Win32.Registry.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\mscorlib.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\netstandard.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Prueba.pdb
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Prueba.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.AppContext.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Buffers.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Collections.Concurrent.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Collections.Immutable.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Collections.NonGeneric.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Collections.Specialized.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Collections.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.Annotations.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.Primitives.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.TypeConverter.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Configuration.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Console.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Core.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Data.Common.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Data.DataSetExtensions.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Data.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Contracts.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Debug.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Process.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.StackTrace.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Tools.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.TraceSource.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Tracing.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Drawing.Primitives.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Drawing.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Dynamic.Runtime.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Formats.Asn1.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Formats.Tar.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Globalization.Calendars.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Globalization.Extensions.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Globalization.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.Brotli.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.FileSystem.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.ZipFile.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.Primitives.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.Watcher.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.IsolatedStorage.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.MemoryMappedFiles.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Pipelines.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Pipes.AccessControl.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Pipes.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Expressions.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Parallel.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Queryable.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Linq.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Memory.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Http.Json.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Http.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.HttpListener.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Mail.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.NameResolution.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.NetworkInformation.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Ping.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Primitives.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Quic.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Requests.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Security.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.ServicePoint.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Sockets.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebClient.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebHeaderCollection.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebProxy.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebSockets.Client.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebSockets.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Numerics.Vectors.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Numerics.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ObjectModel.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Private.CoreLib.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Private.DataContractSerialization.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Private.Uri.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Private.Xml.Linq.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Private.Xml.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.DispatchProxy.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Emit.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Extensions.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Metadata.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Primitives.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.TypeExtensions.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Resources.Reader.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Resources.ResourceManager.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Resources.Writer.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Extensions.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Handles.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Intrinsics.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Loader.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Numerics.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Json.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Xml.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.AccessControl.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Claims.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Cng.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Csp.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Encoding.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Primitives.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Principal.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Principal.Windows.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.SecureString.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ServiceModel.Web.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ServiceProcess.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encoding.CodePages.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encoding.Extensions.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encoding.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encodings.Web.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Text.Json.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Text.RegularExpressions.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Channels.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Overlapped.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.Extensions.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.Parallel.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Thread.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.ThreadPool.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Timer.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Transactions.Local.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Transactions.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ValueTuple.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Web.HttpUtility.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Web.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Windows.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.Linq.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.ReaderWriter.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.Serialization.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XDocument.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XmlDocument.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XmlSerializer.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XPath.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XPath.XDocument.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\WindowsBase.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Numerics.Vectors.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.map.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Data.DataSetExtensions.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Text.RegularExpressions.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Extensions.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Parallel.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Requests.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Pipes.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Quic.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Sockets.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Private.CoreLib.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.TypeConverter.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Queryable.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\netstandard.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Security.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.NameResolution.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Ping.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encoding.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Globalization.Calendars.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.TraceSource.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.StackTrace.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Collections.Immutable.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.js.map.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ServiceProcess.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.Primitives.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Pipelines.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Memory.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Win32.Registry.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Process.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\mscorlib.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Primitives.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Console.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Expressions.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.Serialization.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Http.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Data.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Drawing.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Json.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.8.0.3.9nm7bajy7e.js.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\WindowsBase.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Logging.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Metadata.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XDocument.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Private.Xml.Linq.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Private.Uri.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Principal.Windows.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Loader.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Collections.Specialized.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Tracing.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.8.0.3.d2kvxvq3vc.js.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Configuration.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.Extensions.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XmlDocument.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Drawing.Primitives.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Win32.Primitives.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.IsolatedStorage.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Emit.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Prueba.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.Parallel.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Thread.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Principal.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.FileSystem.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.Linq.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Primitives.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Private.Xml.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Claims.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Resources.ResourceManager.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Collections.Concurrent.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Numerics.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebClient.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Pipes.AccessControl.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.SecureString.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Transactions.Local.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Web.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.VisualBasic.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.ThreadPool.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Buffers.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ValueTuple.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Primitives.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Web.HttpUtility.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Text.Json.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Encoding.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Core.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XmlSerializer.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Globalization.Extensions.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XPath.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.ReaderWriter.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Tools.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Formats.Asn1.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.TypeExtensions.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Primitives.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Intrinsics.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.AppContext.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Windows.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebHeaderCollection.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encodings.Web.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.Primitives.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Overlapped.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Mail.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encoding.Extensions.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.Annotations.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Xml.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.ZipFile.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebSockets.Client.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.CSharp.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Text.Encoding.CodePages.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Timer.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Handles.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Collections.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Resources.Reader.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.DispatchProxy.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ObjectModel.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Numerics.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Resources.Writer.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Prueba.pdb.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.VisualBasic.Core.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Collections.NonGeneric.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\icudt_CJK.dat.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebProxy.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Options.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.NetworkInformation.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebSockets.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Csp.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Private.DataContractSerialization.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.Http.Json.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.MemoryMappedFiles.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Contracts.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Linq.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Debug.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.AccessControl.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XPath.XDocument.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.HttpListener.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.Brotli.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Xml.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Cng.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Net.ServicePoint.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Data.Common.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Globalization.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.ServiceModel.Web.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Formats.Tar.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Dynamic.Runtime.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.JSInterop.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Transactions.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.Watcher.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Extensions.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Channels.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.wasm.gz
+D:\Prueba\Prueba\bin\Debug\net8.0\Prueba.staticwebassets.runtime.json
+D:\Prueba\Prueba\bin\Debug\net8.0\Prueba.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Prueba.pdb
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.JSInterop.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.CSharp.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.VisualBasic.Core.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.VisualBasic.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Win32.Primitives.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\Microsoft.Win32.Registry.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.AppContext.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Buffers.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Collections.Concurrent.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Collections.Immutable.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Collections.NonGeneric.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Collections.Specialized.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Collections.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.ComponentModel.Annotations.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.ComponentModel.DataAnnotations.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.ComponentModel.EventBasedAsync.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.ComponentModel.Primitives.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.ComponentModel.TypeConverter.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.ComponentModel.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Configuration.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Console.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Core.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Data.Common.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Data.DataSetExtensions.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Data.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Diagnostics.Contracts.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Diagnostics.Debug.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Diagnostics.FileVersionInfo.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Diagnostics.Process.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Diagnostics.StackTrace.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Diagnostics.TextWriterTraceListener.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Diagnostics.Tools.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Diagnostics.TraceSource.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Diagnostics.Tracing.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Drawing.Primitives.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Drawing.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Dynamic.Runtime.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Formats.Tar.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Globalization.Calendars.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Globalization.Extensions.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Globalization.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.IO.Compression.Brotli.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.IO.Compression.FileSystem.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.IO.Compression.ZipFile.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.IO.Compression.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.IO.FileSystem.AccessControl.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.IO.FileSystem.DriveInfo.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.IO.FileSystem.Primitives.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.IO.FileSystem.Watcher.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.IO.FileSystem.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.IO.IsolatedStorage.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.IO.MemoryMappedFiles.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.IO.Pipes.AccessControl.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.IO.Pipes.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.IO.UnmanagedMemoryStream.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.IO.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Linq.Expressions.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Linq.Parallel.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Linq.Queryable.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Linq.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Memory.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Net.Http.Json.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Net.Http.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Net.HttpListener.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Net.Mail.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Net.NameResolution.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Net.NetworkInformation.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Net.Ping.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Net.Primitives.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Net.Quic.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Net.Requests.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Net.Security.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Net.ServicePoint.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Net.Sockets.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Net.WebClient.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Net.WebHeaderCollection.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Net.WebProxy.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Net.WebSockets.Client.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Net.WebSockets.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Net.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Numerics.Vectors.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Numerics.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.ObjectModel.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Private.DataContractSerialization.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Private.Uri.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Private.Xml.Linq.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Private.Xml.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Reflection.DispatchProxy.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Reflection.Emit.ILGeneration.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Reflection.Emit.Lightweight.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Reflection.Emit.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Reflection.Extensions.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Reflection.Metadata.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Reflection.Primitives.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Reflection.TypeExtensions.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Reflection.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Resources.Reader.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Resources.ResourceManager.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Resources.Writer.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.CompilerServices.VisualC.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.Extensions.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.Handles.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.InteropServices.JavaScript.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.InteropServices.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.Intrinsics.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.Loader.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.Numerics.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.Serialization.Formatters.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.Serialization.Json.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.Serialization.Primitives.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.Serialization.Xml.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.Serialization.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Runtime.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Security.AccessControl.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Security.Claims.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Security.Cryptography.Algorithms.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Security.Cryptography.Cng.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Security.Cryptography.Csp.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Security.Cryptography.Encoding.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Security.Cryptography.OpenSsl.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Security.Cryptography.Primitives.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Security.Cryptography.X509Certificates.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Security.Cryptography.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Security.Principal.Windows.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Security.Principal.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Security.SecureString.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Security.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.ServiceModel.Web.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.ServiceProcess.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Text.Encoding.CodePages.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Text.Encoding.Extensions.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Text.Encoding.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Text.Json.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Text.RegularExpressions.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Threading.Channels.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Threading.Overlapped.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Threading.Tasks.Dataflow.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Threading.Tasks.Extensions.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Threading.Tasks.Parallel.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Threading.Tasks.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Threading.Thread.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Threading.ThreadPool.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Threading.Timer.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Threading.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Transactions.Local.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Transactions.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.ValueTuple.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Web.HttpUtility.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Web.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Windows.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Xml.Linq.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Xml.ReaderWriter.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Xml.Serialization.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Xml.XDocument.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Xml.XPath.XDocument.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Xml.XPath.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Xml.XmlDocument.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Xml.XmlSerializer.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Xml.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\WindowsBase.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\mscorlib.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\netstandard.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\System.Private.CoreLib.dll
+D:\Prueba\Prueba\bin\Debug\net8.0\dotnet.js
+D:\Prueba\Prueba\bin\Debug\net8.0\dotnet.js.map
+D:\Prueba\Prueba\bin\Debug\net8.0\dotnet.native.js
+D:\Prueba\Prueba\bin\Debug\net8.0\dotnet.native.wasm
+D:\Prueba\Prueba\bin\Debug\net8.0\dotnet.runtime.js
+D:\Prueba\Prueba\bin\Debug\net8.0\dotnet.runtime.js.map
+D:\Prueba\Prueba\bin\Debug\net8.0\icudt_CJK.dat
+D:\Prueba\Prueba\bin\Debug\net8.0\icudt_EFIGS.dat
+D:\Prueba\Prueba\bin\Debug\net8.0\icudt_no_CJK.dat
+D:\Prueba\Prueba\obj\Debug\net8.0\Prueba.csproj.AssemblyReference.cache
+D:\Prueba\Prueba\obj\Debug\net8.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prueba\Prueba\obj\Debug\net8.0\Prueba.AssemblyInfoInputs.cache
+D:\Prueba\Prueba\obj\Debug\net8.0\Prueba.AssemblyInfo.cs
+D:\Prueba\Prueba\obj\Debug\net8.0\Prueba.csproj.CoreCompileInputs.cache
+D:\Prueba\Prueba\obj\Debug\net8.0\Prueba.MvcApplicationPartsAssemblyInfo.cache
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Authorization.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.Forms.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.Web.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.WebAssembly.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Metadata.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.Configuration.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.Configuration.Abstractions.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.Configuration.Binder.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.Configuration.FileExtensions.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.Configuration.Json.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.DependencyInjection.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.DependencyInjection.Abstractions.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.FileProviders.Abstractions.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.FileProviders.Physical.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.FileSystemGlobbing.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.Logging.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.Logging.Abstractions.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.Options.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Extensions.Primitives.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.JSInterop.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.JSInterop.WebAssembly.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.Pipelines.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.CSharp.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.VisualBasic.Core.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.VisualBasic.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Win32.Primitives.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Microsoft.Win32.Registry.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.AppContext.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Buffers.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Collections.Concurrent.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Collections.Immutable.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Collections.NonGeneric.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Collections.Specialized.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Collections.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.ComponentModel.Annotations.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.ComponentModel.DataAnnotations.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.ComponentModel.EventBasedAsync.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.ComponentModel.Primitives.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.ComponentModel.TypeConverter.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.ComponentModel.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Configuration.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Console.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Core.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Data.Common.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Data.DataSetExtensions.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Data.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Diagnostics.Contracts.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Diagnostics.Debug.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Diagnostics.DiagnosticSource.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Diagnostics.FileVersionInfo.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Diagnostics.Process.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Diagnostics.StackTrace.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Diagnostics.TextWriterTraceListener.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Diagnostics.Tools.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Diagnostics.TraceSource.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Diagnostics.Tracing.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Drawing.Primitives.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Drawing.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Dynamic.Runtime.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Formats.Asn1.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Formats.Tar.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Globalization.Calendars.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Globalization.Extensions.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Globalization.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.Compression.Brotli.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.Compression.FileSystem.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.Compression.ZipFile.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.Compression.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.FileSystem.AccessControl.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.FileSystem.DriveInfo.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.FileSystem.Primitives.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.FileSystem.Watcher.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.FileSystem.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.IsolatedStorage.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.MemoryMappedFiles.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.Pipes.AccessControl.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.Pipes.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.UnmanagedMemoryStream.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.IO.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Linq.Expressions.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Linq.Parallel.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Linq.Queryable.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Linq.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Memory.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.Http.Json.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.Http.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.HttpListener.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.Mail.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.NameResolution.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.NetworkInformation.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.Ping.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.Primitives.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.Quic.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.Requests.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.Security.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.ServicePoint.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.Sockets.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.WebClient.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.WebHeaderCollection.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.WebProxy.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.WebSockets.Client.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.WebSockets.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Net.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Numerics.Vectors.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Numerics.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.ObjectModel.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Private.DataContractSerialization.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Private.Uri.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Private.Xml.Linq.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Private.Xml.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Reflection.DispatchProxy.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Reflection.Emit.ILGeneration.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Reflection.Emit.Lightweight.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Reflection.Emit.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Reflection.Extensions.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Reflection.Metadata.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Reflection.Primitives.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Reflection.TypeExtensions.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Reflection.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Resources.Reader.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Resources.ResourceManager.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Resources.Writer.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.CompilerServices.Unsafe.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.CompilerServices.VisualC.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.Extensions.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.Handles.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.InteropServices.JavaScript.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.InteropServices.RuntimeInformation.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.InteropServices.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.Intrinsics.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.Loader.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.Numerics.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.Serialization.Formatters.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.Serialization.Json.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.Serialization.Primitives.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.Serialization.Xml.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.Serialization.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Runtime.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.AccessControl.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.Claims.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.Cryptography.Algorithms.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.Cryptography.Cng.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.Cryptography.Csp.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.Cryptography.Encoding.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.Cryptography.OpenSsl.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.Cryptography.Primitives.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.Cryptography.X509Certificates.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.Cryptography.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.Principal.Windows.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.Principal.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.SecureString.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Security.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.ServiceModel.Web.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.ServiceProcess.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Text.Encoding.CodePages.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Text.Encoding.Extensions.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Text.Encoding.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Text.Encodings.Web.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Text.Json.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Text.RegularExpressions.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Threading.Channels.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Threading.Overlapped.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Threading.Tasks.Dataflow.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Threading.Tasks.Extensions.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Threading.Tasks.Parallel.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Threading.Tasks.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Threading.Thread.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Threading.ThreadPool.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Threading.Timer.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Threading.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Transactions.Local.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Transactions.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.ValueTuple.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Web.HttpUtility.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Web.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Windows.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Xml.Linq.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Xml.ReaderWriter.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Xml.Serialization.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Xml.XDocument.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Xml.XPath.XDocument.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Xml.XPath.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Xml.XmlDocument.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Xml.XmlSerializer.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Xml.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\WindowsBase.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\mscorlib.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\netstandard.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\System.Private.CoreLib.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\webcil\Prueba.wasm
+D:\Prueba\Prueba\obj\Debug\net8.0\blazor.build.boot-extension.json
+D:\Prueba\Prueba\obj\Debug\net8.0\blazor.boot.json
+D:\Prueba\Prueba\obj\Debug\net8.0\staticwebassets.build.json
+D:\Prueba\Prueba\obj\Debug\net8.0\staticwebassets.development.json
+D:\Prueba\Prueba\obj\Debug\net8.0\staticwebassets\msbuild.Prueba.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Prueba\Prueba\obj\Debug\net8.0\staticwebassets\msbuild.build.Prueba.props
+D:\Prueba\Prueba\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Prueba.props
+D:\Prueba\Prueba\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Prueba.props
+D:\Prueba\Prueba\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Prueba\Prueba\obj\Debug\net8.0\scopedcss\Layout\MainLayout.razor.rz.scp.css
+D:\Prueba\Prueba\obj\Debug\net8.0\scopedcss\Layout\NavMenu.razor.rz.scp.css
+D:\Prueba\Prueba\obj\Debug\net8.0\scopedcss\bundle\Prueba.styles.css
+D:\Prueba\Prueba\obj\Debug\net8.0\scopedcss\projectbundle\Prueba.bundle.scp.css
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\9ww1xt7ul1.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\xy1fticqu8.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\9a6uu6d4z7.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\khae80aqmo.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\zn8kic18ly.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\eglv4hqusr.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\odu7nqijuj.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\350rqesr0i.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\8efr6z1dll.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\uddbx0y1xa.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\7s3426x05d.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\ql33rydfab.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\ki1ykpj6ar.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\2xnygx557l.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\zy4t66wt4u.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\bub16i0xxf.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\s64iu3veg0.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\9y8p30yw5w.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\23ebjyeqqy.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\susp1sm8bl.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\6lxa6e9koy.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\xwij71yzt9.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\fx4e1y835o.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\599yy1m228.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\oivtp8fc34.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\rxey98hqil.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\j55iegl114.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\ecslyeuouw.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\648x8yfpgk.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\lwy7s4f3a0.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\jc5tfwl7pe.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\guh3yneygq.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\4nrt8q9o4t.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\s0bf36otw7.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\cb3hff446a.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\poixmvds2z.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\nuzpek65mv.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\7b2hiw9pjc.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\v2u1hy75fe.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\mv0ila8c0w.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\26ogfnwr59.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\qa860hnnn9.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\d5uuynkoc8.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\6nbvtnjqki.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\l4tod1zvdh.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\wwi5hp1ncl.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\0jnm749xly.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\8ad5rnkpyv.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\uhq0b2if0n.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\v0w88pghf8.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\xogbmazztv.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\9pfg9fgdea.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\68g3m6yauv.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\4mh4wdmn9x.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\0oo6txb7pg.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\leomb8cnlk.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\492n8a6wvk.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\d1thbpqg0a.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\dv6qiudneb.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\8kooc7ht9h.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\xllop8lqbe.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\lg4b4mvwjd.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\xbz0s01lcc.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\3z3mqvgdt6.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\lbt3b4ggeh.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\x0hjy2zdta.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\w3knwiehb5.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\fya3wxe79p.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\o3u24jusu1.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\n2qqo6dq41.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\b649pxzbro.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\pjnfpz0mxo.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\591eouzwym.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\z2ngitwjnk.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\o9rw4f5mrt.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\eh9mmnivgb.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\ty94lj2sbq.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\hv5tp7utvz.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\1j7pgo6qej.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\ry4h3l72o1.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\xo4scfne83.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\710rqppv2i.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\0yts59eatw.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\2morfqfb04.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\unbekt9hqq.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\5l8o1ogf5p.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\tg3coc7wc1.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\86cbx754f2.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\w19b12rol9.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\mz3722w146.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\3417a13zxe.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\svhu9kpyii.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\37258e49ni.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\gbc1e3zqmi.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\21xvmguxws.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\15jep7aaxr.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\33zzitm0ds.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\wwd4x3iekd.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\2263ewnqci.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\hhn3c8n3n5.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\m98d55fhl6.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\spovmzz3lw.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\o9x7bluyzo.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\t6zu6x3237.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\qj1y88h0lp.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\0ehsjc9y84.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\hdt4edoxyq.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\qmov3nzpuh.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\tb15zxr7pu.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\bguvqw01kf.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\bfvtlz5ksa.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\ge79tyipvf.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\q645fxllh8.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\c13dfkr197.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\t3pi1xd5u7.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\ei08laojg8.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\0vgkfg06ud.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\a5660wvt7l.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\lmus51in2n.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\lkx0219vc7.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\v3r77x3hbb.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\pqxgpzd1ug.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\gmz4qhlwwk.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\rf0b2mq327.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\64ksclkrdd.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\8eq0ordx6j.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\z8uwwjzz10.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\pcfi5341gn.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\im4ouif9xn.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\diel0y82ke.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\yghj3ijk0k.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\lwrqnzqqv4.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\bxfpamsu8c.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\rdl93upa8w.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\coemjbvkxl.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\8te2g3ssqz.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\pvsoia7349.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\o03lv1dz2j.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\zftvy69eqt.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\dch394nyr3.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\v7gpqm9fd6.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\gffs8ooljp.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\rvmq0nia4s.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\wqwb2u3elc.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\taiysr86t6.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\l27oal8ryf.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\3yaphnbe45.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\k824e6pnra.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\s4z3ru939a.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\5v9k7qph3w.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\bm0z0aqu0y.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\f9su2xpk5d.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\hv8qg9m4ka.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\rtzbog8v2i.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\x14f68ar6t.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\53a836u2in.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\op0mjvcutd.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\nuggnzrglj.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\3larromb3r.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\mdi3snd4be.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\kw0keddw9u.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\0q2h8sq8tg.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\zlrlq1mrrx.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\mvcymm98et.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\dcgir4p3q9.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\dqh04h4gzy.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\exmihpww70.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\jpozd8du53.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\f9j26allc8.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\j9ie32gu06.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\p0x1l6q8x8.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\pli69nh02y.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\iik7yen459.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\yxxz9nh4dt.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\jfpqqwiyjp.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\kny2n8tow0.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\imro1xq5fq.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\lxxrxitfbw.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\fyisqu3pt5.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\ld52u3ikem.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\7rk6o7q5r1.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\b5scw2tetp.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\vldl65jzcc.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\lcmckyuq0y.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\dt9u862omc.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\l72rsfzcls.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\wjl2s3tjg3.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\f89dwy88r4.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\9wrwiktw9k.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\6e1urubkxt.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\2rg9ymq0oo.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\26l661p6fl.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\i92xn63rpo.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\0enqgz1v45.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\9nm7bajy7e.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\cw94iepz82.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\d2kvxvq3vc.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\51ysl5o3uf.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\slmlkzssub.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\gngxvh6plu.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\59ip1fnhyx.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\ej63pe7ape.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\rkcmqaz0dz.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\compressed\fveyapdap7.gz
+D:\Prueba\Prueba\obj\Debug\net8.0\Prueba.csproj.Up2Date
+D:\Prueba\Prueba\obj\Debug\net8.0\Prueba.dll
+D:\Prueba\Prueba\obj\Debug\net8.0\refint\Prueba.dll
+D:\Prueba\Prueba\obj\Debug\net8.0\Prueba.pdb
+D:\Prueba\Prueba\obj\Debug\net8.0\ref\Prueba.dll
+D:\Prueba\Prueba\obj\Debug\net8.0\Prueba.sourcelink.json
+D:\Prueba\Prueba\obj\Debug\net8.0\scopedcss\Pages\Home.razor.rz.scp.css

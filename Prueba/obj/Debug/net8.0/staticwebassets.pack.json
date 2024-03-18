@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Prueba\\Prueba\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Prueba\\Prueba\\obj\\Debug\\net8.0\\compressed\\9ww1xt7ul1.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\Prueba\\Prueba\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Prueba.styles.css",
+      "PackagePath": "staticwebassets\\Prueba.styles.css"
+    },
+    {
+      "Id": "D:\\Prueba\\Prueba\\wwwroot\\Img\\LogoTMB.png",
+      "PackagePath": "staticwebassets\\Img\\LogoTMB.png"
+    },
+    {
+      "Id": "D:\\Prueba\\Prueba\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Prueba\\Prueba\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Prueba\\Prueba\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Prueba\\Prueba\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Prueba\\Prueba\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\Prueba\\Prueba\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Prueba\\Prueba\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Prueba.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Prueba.props",
+      "PackagePath": "build\\Prueba.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Prueba.props",
+      "PackagePath": "buildMultiTargeting\\Prueba.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Prueba.props",
+      "PackagePath": "buildTransitive\\Prueba.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
