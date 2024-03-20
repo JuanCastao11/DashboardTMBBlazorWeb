@@ -1,0 +1,56 @@
+﻿.title {
+    font-size: 1.2rem;
+}
+
+.Container-1 {
+    width: 100%;
+    display: flex;
+    display: inline-block;
+}
+
+.sub-Container1 {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.sub-Container2 {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.sub-Container3 {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.sub-Container4 {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.card {
+    width: 20%;
+    height: 30vh;
+}
+
+.card2 {
+    width: 40%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: 0.25rem;
+    height: 30vh;
+}

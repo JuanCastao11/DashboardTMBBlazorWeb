@@ -1,52 +1,133 @@
-.general-Dashboard[b-2qjg7rv6yy]{
+.general-Dashboard[b-2qjg7rv6yy] {
     width: 100%;
 }
-.title[b-2qjg7rv6yy]{
-    font-size: 1.2rem;  
-    margin:10px;
-   margin-left: 0;
-   margin-right: 0;
+
+.title[b-2qjg7rv6yy] {
+    font-size: 1.2rem;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+.title:hover[b-2qjg7rv6yy] {
+    color: darkred;
+    cursor: pointer;
+   transform: translateX(10px);
 }
 
 .Container-1[b-2qjg7rv6yy] {
     width: 100%;
     display: flex;
-    display: inline-block;
-    
+    display: inline-block
 }
+
 .sub-Container1[b-2qjg7rv6yy] {
     width: 100%;
     display: flex;
     gap: 10px;
     margin-bottom: 20px;
+    
 }
+
 .sub-Container2[b-2qjg7rv6yy] {
     width: 100%;
     display: flex;
     gap: 10px;
-    margin-top: 20px;
+    margin-top: 10px;
     margin-bottom: 20px;
 }
+
 .sub-Container3[b-2qjg7rv6yy] {
     width: 100%;
     display: flex;
     gap: 10px;
-    margin-top: 20px;  
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
+
 .sub-Container4[b-2qjg7rv6yy] {
     width: 100%;
     display: flex;
     gap: 10px;
-    margin-top: 20px;
+    margin-top: 10px;
 }
+
+
 .card[b-2qjg7rv6yy] {
-    width: 20%;
-    height: 25vh;
-    border-radius: 10px;
+    width: 28%;
+    height: 35vh;
+    text-align: center;
+}
+
+.card-header[b-2qjg7rv6yy]{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    
 }
 .card2[b-2qjg7rv6yy] {
     width: 40%;
-    height: 25vh;
-    border-radius: 10px;
-    border: 1px solid #000;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: 0.25rem;
+    height: 35vh;
 }
+
+.card4[b-2qjg7rv6yy] {
+    width: 15%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: 0.25rem;
+    height: 35vh;
+    text-align: center;
+}
+tr:hover[b-2qjg7rv6yy] {
+    background-color: #f5f5f5;
+}
+.table[b-2qjg7rv6yy] {
+     /* Agregar sombra suave */
+    border-radius: 10px; /* Borde redondeado */
+    overflow: hidden; /* Ocultar el desbordamiento */
+}
+
+thead[b-2qjg7rv6yy] {
+ /* Color de fondo del encabezado */
+    color: black; /* Color del texto del encabezado */
+}
+.objetivo[b-2qjg7rv6yy] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5.5rem;
+}
+.objetivo h1[b-2qjg7rv6yy]{
+    font-size: 3.5rem;
+    font-weight: 600;
+    color: black;
+    text-shadow: 1px 1px 2px #000000;
+}
+tbody tr:nth-child(even)[b-2qjg7rv6yy] {
+    background-color: #f8f9fa; /* Color de fondo de las filas pares */
+}
+td[b-2qjg7rv6yy] {
+    transition: background-color 0.3s ease; /* Agregar transición de color de fondo */
+}
+
+    td:hover[b-2qjg7rv6yy] {
+        background-color: #f5f5f5; /* Cambiar el color de fondo al pasar el cursor */
+    }
+th[b-2qjg7rv6yy] {
+    font-weight: bold; /* Texto en negrita */
+    text-align: center; /* Alineación centrada */
+    /* Espaciado interno */
+}
+

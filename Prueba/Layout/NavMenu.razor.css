@@ -12,21 +12,32 @@
     width: 100%;
     display: flex;
     justify-content: center;
+
   
 }
 .logo img {
     width: 120px;
+    animation: columpiar 2s ease-in-out infinite alternate;
 }
 
+@keyframes columpiar {
+    from {
+    transform: rotate(-10deg); 
+    }
+
+    to {
+    transform: rotate(10deg); 
+    }
+}
 .top-row {
-    max-width: 100%; /* o un valor específico en píxeles o porcentaje */
+    max-width: 100%; 
 }
 
 
 
 .navbar-brand img {
-    max-width:50%; /* o un valor específico en píxeles */
-    height: auto; /* Esto mantendrá la proporción de aspecto de la imagen */
+    max-width:50%;
+    height: auto; 
 }
 
 

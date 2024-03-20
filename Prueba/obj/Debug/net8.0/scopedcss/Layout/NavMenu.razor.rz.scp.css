@@ -12,21 +12,32 @@
     width: 100%;
     display: flex;
     justify-content: center;
+
   
 }
 .logo img[b-9acr6s6298] {
     width: 120px;
+    animation: columpiar-b-9acr6s6298 2s ease-in-out infinite alternate;
 }
 
+@keyframes columpiar-b-9acr6s6298 {
+    from {
+    transform: rotate(-10deg); 
+    }
+
+    to {
+    transform: rotate(10deg); 
+    }
+}
 .top-row[b-9acr6s6298] {
-    max-width: 100%; /* o un valor espec�fico en p�xeles o porcentaje */
+    max-width: 100%; 
 }
 
 
 
 .navbar-brand img[b-9acr6s6298] {
-    max-width:50%; /* o un valor espec�fico en p�xeles */
-    height: auto; /* Esto mantendr� la proporci�n de aspecto de la imagen */
+    max-width:50%;
+    height: auto; 
 }
 
 

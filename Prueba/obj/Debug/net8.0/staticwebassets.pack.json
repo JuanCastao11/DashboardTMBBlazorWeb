@@ -1,47 +1,47 @@
 {
   "Files": [
     {
-      "Id": "D:\\Prueba\\Prueba\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "D:\\Prueba\\Prueba\\obj\\Debug\\net8.0\\compressed\\9ww1xt7ul1.gz",
+      "Id": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\obj\\Debug\\net8.0\\compressed\\5kfkbd3l0u.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "D:\\Prueba\\Prueba\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Prueba.styles.css",
+      "Id": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Prueba.styles.css",
       "PackagePath": "staticwebassets\\Prueba.styles.css"
     },
     {
-      "Id": "D:\\Prueba\\Prueba\\wwwroot\\Img\\LogoTMB.png",
+      "Id": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\wwwroot\\Img\\LogoTMB.png",
       "PackagePath": "staticwebassets\\Img\\LogoTMB.png"
     },
     {
-      "Id": "D:\\Prueba\\Prueba\\wwwroot\\css\\app.css",
+      "Id": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "D:\\Prueba\\Prueba\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Prueba\\Prueba\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Prueba\\Prueba\\wwwroot\\favicon.png",
+      "Id": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "D:\\Prueba\\Prueba\\wwwroot\\icon-192.png",
+      "Id": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "D:\\Prueba\\Prueba\\wwwroot\\index.html",
+      "Id": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "D:\\Prueba\\Prueba\\wwwroot\\sample-data\\weather.json",
+      "Id": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {

@@ -2057,23 +2057,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\juanm\\.nuget\\packages\\": {},
+    "C:\\Users\\aprendizsistemas\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Prueba\\Prueba\\Prueba.csproj",
+      "projectUniqueName": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\Prueba.csproj",
       "projectName": "Prueba",
-      "projectPath": "D:\\Prueba\\Prueba\\Prueba.csproj",
-      "packagesPath": "C:\\Users\\juanm\\.nuget\\packages\\",
-      "outputPath": "D:\\Prueba\\Prueba\\obj\\",
+      "projectPath": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\Prueba.csproj",
+      "packagesPath": "C:\\Users\\aprendizsistemas\\.nuget\\packages\\",
+      "outputPath": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\juanm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\aprendizsistemas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
