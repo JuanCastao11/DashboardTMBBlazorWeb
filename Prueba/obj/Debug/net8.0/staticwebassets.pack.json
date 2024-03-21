@@ -13,8 +13,24 @@
       "PackagePath": "staticwebassets\\Prueba.styles.css"
     },
     {
+      "Id": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\wwwroot\\Img\\1.png",
+      "PackagePath": "staticwebassets\\Img\\1.png"
+    },
+    {
+      "Id": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\wwwroot\\Img\\2.png",
+      "PackagePath": "staticwebassets\\Img\\2.png"
+    },
+    {
       "Id": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\wwwroot\\Img\\LogoTMB.png",
       "PackagePath": "staticwebassets\\Img\\LogoTMB.png"
+    },
+    {
+      "Id": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\wwwroot\\Img\\img1General.png",
+      "PackagePath": "staticwebassets\\Img\\img1General.png"
+    },
+    {
+      "Id": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\wwwroot\\Img\\imgCard1.png",
+      "PackagePath": "staticwebassets\\Img\\imgCard1.png"
     },
     {
       "Id": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\wwwroot\\css\\app.css",

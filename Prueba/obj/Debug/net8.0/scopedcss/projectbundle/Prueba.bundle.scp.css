@@ -334,6 +334,34 @@ main[b-zoaxvuj0vj] {
     width: 28%;
     height: 35vh;
     text-align: center;
+    border-radius: 10px;
+   
+}
+.card:hover[b-2qjg7rv6yy]{
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+
+}
+.card2:hover[b-2qjg7rv6yy]{
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+
+
+}
+.card4:hover[b-2qjg7rv6yy]{
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+
+}
+.card5:hover[b-2qjg7rv6yy]{
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+
+}
+.car6:hover[b-2qjg7rv6yy]{
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+
 }
 
 .card-header[b-2qjg7rv6yy]{
@@ -354,6 +382,8 @@ main[b-zoaxvuj0vj] {
     border: 1px solid rgba(0, 0, 0, .125);
     border-radius: 0.25rem;
     height: 35vh;
+    border-radius: 10px;
+   
 }
 
 .card4[b-2qjg7rv6yy] {
@@ -369,6 +399,31 @@ main[b-zoaxvuj0vj] {
     border-radius: 0.25rem;
     height: 35vh;
     text-align: center;
+    border-radius: 10px;
+  
+}
+.card5[b-2qjg7rv6yy] {
+    width: 25%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: 0.25rem;
+    height: 25vh;
+    text-align: center;
+    border-radius: 10px;
+   
+}
+.car6[b-2qjg7rv6yy] {
+    width: 28%;
+    height: 20vh;
+    text-align: center;
+    border-radius: 10px;
+    
 }
 tr:hover[b-2qjg7rv6yy] {
     background-color: #f5f5f5;
@@ -387,7 +442,7 @@ thead[b-2qjg7rv6yy] {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 5.5rem;
+    
 }
 .objetivo h1[b-2qjg7rv6yy]{
     font-size: 3.5rem;
@@ -410,7 +465,71 @@ th[b-2qjg7rv6yy] {
     text-align: center; /* Alineación centrada */
     /* Espaciado interno */
 }
-
+.vehiculos[b-2qjg7rv6yy]{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5.5rem;
+}
+.vehiculos img[b-2qjg7rv6yy] {
+    width: 50%;
+}
+.cant[b-2qjg7rv6yy] {
+    font-size: 4.5rem;
+    font-weight: 600;
+    color: black;
+    text-shadow: 1px 1px 2px #000000;
+}
+.mtto[b-2qjg7rv6yy]{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.4rem;
+    text-shadow: 1px 1px 1px #000000;
+    font-weight: 600;
+}
+.actual[b-2qjg7rv6yy] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:2.4rem;
+    text-shadow: 1px 1px 1px #000000;
+    font-weight: 600;
+}
+.enMantenimiento[b-2qjg7rv6yy] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.enMantenimiento img[b-2qjg7rv6yy] {
+    width: 60%;
+}
+.enMantenimiento h1[b-2qjg7rv6yy] {
+    font-size: 4.5rem;
+    font-weight: 600;
+    color: black;
+    text-shadow: 1px 1px 2px #000000;
+}
+.VDisponibles[b-2qjg7rv6yy]{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.VDisponibles img[b-2qjg7rv6yy] {
+    width: 60%;
+}
+.VDisponibles h1[b-2qjg7rv6yy] {
+    font-size: 4.5rem;
+    font-weight: 600;
+    color: black;
+    text-shadow: 1px 1px 2px #000000;
+}
+.card-header h3[b-2qjg7rv6yy]{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 600;
+    
+}}
 /* /Pages/Tmb.razor.rz.scp.css */
 .title[b-ii7szpz5w6] {
     font-size: 1.2rem;

@@ -3096,3 +3096,15 @@ C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\obj\Debug\net8.0\Prueba.pdb
 C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\obj\Debug\net8.0\ref\Prueba.dll
 C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\obj\Debug\net8.0\scopedcss\Pages\Flota.razor.rz.scp.css
 C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\obj\Debug\net8.0\scopedcss\Pages\Tmb.razor.rz.scp.css
+C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\obj\Debug\net8.0\Prueba.sourcelink.json
+C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\bin\Debug\net8.0\wwwroot\_framework\Newtonsoft.Json.wasm
+C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\bin\Debug\net8.0\wwwroot\_framework\Smart.Blazor.wasm
+C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\bin\Debug\net8.0\wwwroot\_framework\Smart.Blazor.wasm.gz
+C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\bin\Debug\net8.0\wwwroot\_framework\Newtonsoft.Json.wasm.gz
+C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\bin\Debug\net8.0\lib\smart-webcomponents-community@18.0.0\package.json
+C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\bin\Debug\net8.0\Smart.Blazor.dll
+C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\obj\Debug\net8.0\webcil\Newtonsoft.Json.wasm
+C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\obj\Debug\net8.0\webcil\Smart.Blazor.wasm
+C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\obj\Debug\net8.0\compressed\rrrv1ri5dm.gz
+C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\obj\Debug\net8.0\compressed\oei0aze0h8.gz
