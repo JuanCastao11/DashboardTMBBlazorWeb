@@ -527,63 +527,69 @@ th[b-2qjg7rv6yy] {
 .card-header h3[b-2qjg7rv6yy]{
     text-align: center;
     font-size: 1.5rem;
-    font-weight: 600;
-    
-}}
+    font-weight: 600;    
+}
+
 /* /Pages/Tmb.razor.rz.scp.css */
 .title[b-ii7szpz5w6] {
     font-size: 1.2rem;
 }
 
+/* Estilos para los contenedores principales */
 .Container-1[b-ii7szpz5w6] {
     width: 100%;
     display: flex;
-    display: inline-block;
+    flex-wrap: wrap; /* Permitir que los elementos se envuelvan en dispositivos pequeños */
+    gap: 20px; /* Espacio entre los elementos */
+
 }
 
-.sub-Container1[b-ii7szpz5w6] {
-    width: 100%;
-    display: flex;
-    gap: 10px;
-    margin-bottom: 20px;
-}
-
-.sub-Container2[b-ii7szpz5w6] {
-    width: 100%;
-    display: flex;
-    gap: 10px;
-    margin-bottom: 20px;
-}
-
-.sub-Container3[b-ii7szpz5w6] {
-    width: 100%;
-    display: flex;
-    gap: 10px;
-    margin-bottom: 20px;
-}
-
+/* Estilos para los sub-contenedores */
+.sub-Container1[b-ii7szpz5w6],
+.sub-Container2[b-ii7szpz5w6],
+.sub-Container3[b-ii7szpz5w6],
 .sub-Container4[b-ii7szpz5w6] {
     width: 100%;
     display: flex;
-    gap: 10px;
-    margin-bottom: 20px;
+    flex-wrap: wrap; /* Permitir que los elementos se envuelvan en dispositivos pequeños */
+    gap: 20px; /* Espacio entre los elementos */
+    margin-bottom: 20px; /* Espacio entre los sub-contenedores */
+
 }
 
-.card[b-ii7szpz5w6] {
-    width: 20%;
+/* Estilos para las tarjetas */
+.card[b-ii7szpz5w6],
+.card2[b-ii7szpz5w6]{
+    width: calc((100% - 60px) / 4); /* Ajustar el ancho de las tarjetas para diferentes tamaños de pantalla */
     height: 30vh;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 1rem;
 }
 
-.card2[b-ii7szpz5w6] {
-    width: 40%;
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    min-width: 0;
-    word-wrap: break-word;
-    background-color: #fff;
-    background-clip: border-box;
-    border: 1px solid rgba(0, 0, 0, .125);
-    border-radius: 0.25rem;
-    height: 30vh;
+/* Media Queries para dispositivos medianos */
+@media (max-width: 992px) {
+    .card[b-ii7szpz5w6],
+    .card2[b-ii7szpz5w6] {
+        width: calc((100% - 40px) / 3); /* Ajustar el ancho de las tarjetas para dispositivos medianos */
+    }
+}
+
+/* Media Queries para dispositivos pequeños */
+@media (max-width: 768px) {
+    .card[b-ii7szpz5w6],
+    .card2[b-ii7szpz5w6] {
+        width: calc((100% - 20px) / 2); /* Ajustar el ancho de las tarjetas para dispositivos pequeños */
+    }
+}
+
+/* Media Queries para dispositivos extra pequeños */
+@media (max-width: 576px) {
+    .card[b-ii7szpz5w6],
+    .card2[b-ii7szpz5w6] {
+        width: 100%; /* Hacer que las tarjetas ocupen todo el ancho en dispositivos muy pequeños */
+    }
+}
+.card-header[b-ii7szpz5w6] {
+    border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
 }

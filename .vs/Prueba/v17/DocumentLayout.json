@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FD76B3F-87D2-4A83-934B-2971EE996CF4}|Prueba\\Prueba.csproj|c:\\juan manuel\\dashboardtmbblazorweb\\prueba\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{7FD76B3F-87D2-4A83-934B-2971EE996CF4}|Prueba\\Prueba.csproj|solutionrelative:prueba\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{7FD76B3F-87D2-4A83-934B-2971EE996CF4}|Prueba\\Prueba.csproj|c:\\juan manuel\\dashboardtmbblazorweb\\prueba\\pages\\tmb.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7FD76B3F-87D2-4A83-934B-2971EE996CF4}|Prueba\\Prueba.csproj|solutionrelative:prueba\\pages\\tmb.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD76B3F-87D2-4A83-934B-2971EE996CF4}|Prueba\\Prueba.csproj|c:\\juan manuel\\dashboardtmbblazorweb\\prueba\\pages\\tmb.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FD76B3F-87D2-4A83-934B-2971EE996CF4}|Prueba\\Prueba.csproj|solutionrelative:prueba\\pages\\tmb.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FD76B3F-87D2-4A83-934B-2971EE996CF4}|Prueba\\Prueba.csproj|c:\\juan manuel\\dashboardtmbblazorweb\\prueba\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -39,14 +43,6 @@
       "RelativeMoniker": "D:0:0:{7FD76B3F-87D2-4A83-934B-2971EE996CF4}|Prueba\\Prueba.csproj|solutionrelative:prueba\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FD76B3F-87D2-4A83-934B-2971EE996CF4}|Prueba\\Prueba.csproj|c:\\juan manuel\\dashboardtmbblazorweb\\prueba\\pages\\tmb.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7FD76B3F-87D2-4A83-934B-2971EE996CF4}|Prueba\\Prueba.csproj|solutionrelative:prueba\\pages\\tmb.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FD76B3F-87D2-4A83-934B-2971EE996CF4}|Prueba\\Prueba.csproj|c:\\juan manuel\\dashboardtmbblazorweb\\prueba\\pages\\tmb.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{7FD76B3F-87D2-4A83-934B-2971EE996CF4}|Prueba\\Prueba.csproj|solutionrelative:prueba\\pages\\tmb.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aprendizsistemas\\AppData\\Local\\Temp\\.vsdbgsrc\\44aa595dc2a1078aa662bebf92f46ec0aa83d37961bfc5ec1f12f1b995219153\\AddressBinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -65,19 +61,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "Prueba\\wwwroot\\index.html",
-              "ToolTip": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\wwwroot\\index.html",
-              "RelativeToolTip": "Prueba\\wwwroot\\index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-03-21T17:15:19.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\Program.cs",
               "RelativeDocumentMoniker": "Prueba\\Program.cs",
@@ -89,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\_Imports.razor",
               "RelativeDocumentMoniker": "Prueba\\_Imports.razor",
@@ -101,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\App.razor",
               "RelativeDocumentMoniker": "Prueba\\App.razor",
@@ -113,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "NavMenu.razor.css",
               "DocumentMoniker": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\Layout\\NavMenu.razor.css",
               "RelativeDocumentMoniker": "Prueba\\Layout\\NavMenu.razor.css",
@@ -125,32 +109,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Prueba\\Pages\\Home.razor",
               "ToolTip": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\Pages\\Home.razor",
               "RelativeToolTip": "Prueba\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoBAAASAAAA",
+              "ViewState": "AQIAAA8BAAAAAAAAAAAUwCABAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-21T14:52:07.097Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "Tmb.razor.css",
               "DocumentMoniker": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\Pages\\Tmb.razor.css",
               "RelativeDocumentMoniker": "Prueba\\Pages\\Tmb.razor.css",
               "ToolTip": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\Pages\\Tmb.razor.css",
               "RelativeToolTip": "Prueba\\Pages\\Tmb.razor.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAAAQwD0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-19T19:59:59.062Z"
+              "WhenOpened": "2024-03-19T19:59:59.062Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Flota.razor.css",
               "DocumentMoniker": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\Pages\\Flota.razor.css",
               "RelativeDocumentMoniker": "Prueba\\Pages\\Flota.razor.css",
@@ -162,7 +147,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
+              "Title": "Tmb.razor",
+              "DocumentMoniker": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\Pages\\Tmb.razor",
+              "RelativeDocumentMoniker": "Prueba\\Pages\\Tmb.razor",
+              "ToolTip": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\Pages\\Tmb.razor",
+              "RelativeToolTip": "Prueba\\Pages\\Tmb.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T19:47:41.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Prueba\\wwwroot\\index.html",
+              "ToolTip": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\wwwroot\\index.html",
+              "RelativeToolTip": "Prueba\\wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-21T17:15:19.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "AddressBinder.cs",
               "DocumentMoniker": "C:\\Users\\aprendizsistemas\\AppData\\Local\\Temp\\.vsdbgsrc\\44aa595dc2a1078aa662bebf92f46ec0aa83d37961bfc5ec1f12f1b995219153\\AddressBinder.cs",
               "RelativeDocumentMoniker": "..\\..\\Users\\aprendizsistemas\\AppData\\Local\\Temp\\.vsdbgsrc\\44aa595dc2a1078aa662bebf92f46ec0aa83d37961bfc5ec1f12f1b995219153\\AddressBinder.cs",
@@ -175,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Prueba\\Layout\\NavMenu.razor",
@@ -187,19 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Tmb.razor",
-              "DocumentMoniker": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\Pages\\Tmb.razor",
-              "RelativeDocumentMoniker": "Prueba\\Pages\\Tmb.razor",
-              "ToolTip": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\Pages\\Tmb.razor",
-              "RelativeToolTip": "Prueba\\Pages\\Tmb.razor",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAAkAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-19T19:47:41.17Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Flota.razor",
               "DocumentMoniker": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\Pages\\Flota.razor",
               "RelativeDocumentMoniker": "Prueba\\Pages\\Flota.razor",
@@ -208,40 +206,6 @@
               "ViewState": "AQIAADYAAAAAAAAAAAAAAJcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-19T19:47:14.728Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "7afa704c-913f-4755-888c-082d29d8640c",
-        "Display": 1,
-        "X": 542,
-        "Y": 502,
-        "Width": 637,
-        "Height": 652,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Home.razor.css",
-              "DocumentMoniker": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\Pages\\Home.razor.css",
-              "RelativeDocumentMoniker": "Prueba\\Pages\\Home.razor.css",
-              "ToolTip": "C:\\Juan Manuel\\DashboardTMBBlazorWeb\\Prueba\\Pages\\Home.razor.css",
-              "RelativeToolTip": "Prueba\\Pages\\Home.razor.css",
-              "ViewState": "AQIAADcAAAAAAAAAAAAiwFQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-21T14:51:32.923Z",
-              "EditorCaption": ""
             }
           ]
         }
