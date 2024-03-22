@@ -1,0 +1,30 @@
+.title[b-j2qclvuff2] {
+    font-size: 1.2rem;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+.title:hover[b-j2qclvuff2] {
+    color: darkred;
+    cursor: pointer;
+    transform: translateX(10px);
+}
+.container[b-j2qclvuff2]{
+    width: 100%;
+    
+}
+.subContainer[b-j2qclvuff2]{
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.card[b-j2qclvuff2]{
+    width: 28%;
+    height: 35vh;
+    text-align: center;
+    border-radius: 10px;
+}
+.card-header[b-j2qclvuff2]{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}

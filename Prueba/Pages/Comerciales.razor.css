@@ -1,0 +1,30 @@
+﻿.title {
+    font-size: 1.2rem;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+.title:hover {
+    color: darkred;
+    cursor: pointer;
+    transform: translateX(10px);
+}
+.container{
+    width: 100%;
+    
+}
+.subContainer{
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.card{
+    width: 28%;
+    height: 35vh;
+    text-align: center;
+    border-radius: 10px;
+}
+.card-header{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}

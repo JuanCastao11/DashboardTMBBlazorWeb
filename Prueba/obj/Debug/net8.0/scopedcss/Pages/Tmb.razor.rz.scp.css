@@ -1,6 +1,13 @@
 .title[b-ii7szpz5w6] {
     font-size: 1.2rem;
+    transition: color 0.3s ease, transform 0.3s ease;
 }
+
+    .title:hover[b-ii7szpz5w6] {
+        color: darkred;
+        cursor: pointer;
+        transform: translateX(10px);
+    }
 
 /* Estilos para los contenedores principales */
 .Container-1[b-ii7szpz5w6] {

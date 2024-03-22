@@ -1,6 +1,13 @@
 ﻿.title {
     font-size: 1.2rem;
+    transition: color 0.3s ease, transform 0.3s ease;
 }
+
+    .title:hover {
+        color: darkred;
+        cursor: pointer;
+        transform: translateX(10px);
+    }
 
 /* Estilos para los contenedores principales */
 .Container-1 {
