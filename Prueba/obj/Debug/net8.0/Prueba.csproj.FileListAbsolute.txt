@@ -3108,3 +3108,4 @@ C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\obj\Debug\net8.0\webcil\Newtonsoft.J
 C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\obj\Debug\net8.0\webcil\Smart.Blazor.wasm
 C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\obj\Debug\net8.0\compressed\rrrv1ri5dm.gz
 C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\obj\Debug\net8.0\compressed\oei0aze0h8.gz
+C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\obj\Debug\net8.0\scopedcss\Pages\Comerciales.razor.rz.scp.css

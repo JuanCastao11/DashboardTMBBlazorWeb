@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Prueba",
   "resources": {
-    "hash": "sha256-jcM6fQTwsf3ric/Lv4BcBK7KN4MkLEnws/R8sLaxFNw=",
+    "hash": "sha256-h3Bxsoi7tPcd5uLWVCQQ6n2/gS2B1YJpA1e3jlwJNPk=",
     "jsModuleNative": {
       "dotnet.native.8.0.3.9nm7bajy7e.js": "sha256-D4sYBYmDfH/YekgYRgX959/2RG6k28sJSHmcsn+iikk="
     },
@@ -210,10 +210,10 @@
       "mscorlib.wasm": "sha256-/xjZuJwCmantx5vGyH5ZZ8keySSTeu+YHKQRJbZzcuM=",
       "netstandard.wasm": "sha256-vuFKmCGJbyv85DrzI6S1ZvCikuhIllH6hqbXIL+fUAA=",
       "System.Private.CoreLib.wasm": "sha256-SZkozEDkHEFN0VaDmhl2HOenGaqTOmHqEGkraz3Aejc=",
-      "Prueba.wasm": "sha256-lhoTghJ0nTGIMZdr+g2pihFUHrO8VN1uTEHtA2D1bL4="
+      "Prueba.wasm": "sha256-LVeNq37dnylOtvnAoWcU3o142zN+qqYl3xv/SYTS0O8="
     },
     "pdb": {
-      "Prueba.pdb": "sha256-EWF1havJNPrAg0GZI5jclBCnimI3aK1thu8DMB2t7to="
+      "Prueba.pdb": "sha256-p9+rMWU/1I3Zcr5lq6WpSLULgVovDl2/xbVD44gJ/mg="
     }
   },
   "cacheBootResources": true,

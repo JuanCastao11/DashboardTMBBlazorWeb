@@ -11,7 +11,8 @@
     <link rel="icon" type="image/png" href="favicon.png" />
     <link href="Prueba.styles.css" rel="stylesheet" />
     <link href="lib/smart.default.css" rel="stylesheet" />
-   
+    <link href="_content/Smart.Blazor/css/smart.default.css" rel="stylesheet" />
+
 
 </head>
 
@@ -29,8 +30,10 @@
         <a href="" class="reload">Reload</a>
         <a class="dismiss">🗙</a>
     </div>
-    <script src="lib/smart.core.js"></script>
     <script src="_framework/blazor.webassembly.js"></script>
+    <script>navigator.serviceWorker.register('service-worker.js') </script>
+    <script src="_content/Smart.Blazor/js/smart.blazor.js"></script>
+    <script src="_content/Smart.Blazor/js/smart.elements.js"></script>
 </body>
 
 </html>
