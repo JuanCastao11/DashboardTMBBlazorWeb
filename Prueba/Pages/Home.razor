@@ -1,22 +1,15 @@
 ﻿@page "/"
-
-<PageTitle>Home</PageTitle>
-
 <style>
     smart-chart {
         width: 100%;
-        height: 300px;
+        height: 300px
+        ;
     }
-
     container {
         width: 100%;
     }
-
     card-body {
         width: 100%;
-    }
-    card {
-        border-radius: 10px;
     }
 </style>
 <div class="">
@@ -24,24 +17,12 @@
         <div class="col-lg-3 mb-5">
             <div class="card h-100">
                 <div class="card-header">
-                    <h4 class="label">Facturacion</h4>
+                    <h4 class="label">Line Chart</h4>
                 </div>
                 <div class="card-body">
-                    <Chart @ref="pieChart" DataSource="sourceData" Animation="Animation.None" Caption="" Description="" ShowLegend="false"
-                           ShowBorderLine="false" Padding="new Padding() { Left = 5, Top = 5, Right = 5, Bottom = 5 }"
-                           SeriesGroups="pieSeriesGroups" ColorScheme="ChartColorScheme.Custom" />
-                </div>
-            </div>
-        </div>
-        <div class="col-lg-3 mb-5">
-            <div class="card h-100">
-                <div class="card-header">
-                    <h4 class="label">Pie Chart</h4>
-                </div>
-                <div class="card-body">
-                    <Chart @ref="pieChart" DataSource="sourceData" Animation="Animation.None" Caption="" Description="" ShowLegend="false"
-                           ShowBorderLine="false" Padding="new Padding() { Left = 5, Top = 5, Right = 5, Bottom = 5 }"
-                           SeriesGroups="pieSeriesGroups" ColorScheme="ChartColorScheme.Custom" />
+                    <Chart @ref="lineChart" DataSource="salesData" Animation="Animation.None" Caption="" Description=""
+                           ShowLegend="false" ShowBorderLine="false" Padding="new Padding() { Left = 5, Top = 15, Right = 25, Bottom = 5 }"
+                           XAxis="lineXAxis" SeriesGroups="lineSeriesGroups" ColorScheme="ChartColorScheme.Custom" OnReady="OnReady"  />
                 </div>
             </div>
         </div>
@@ -53,25 +34,11 @@
                 <div class="card-body">
                     <Chart @ref="columnChart" DataSource="salesComparisonData" Animation="Animation.None" Caption="" Description=""
                            ShowLegend="false" ShowBorderLine="false" Padding="new Padding() { Left = 5, Top = 15, Right = 25, Bottom = 5 }"
-                           XAxis="columnXAxis" SeriesGroups="columnSeriesGroups" ColorScheme="ChartColorScheme.Custom" />
+                           XAxis="columnXAxis" SeriesGroups="columnSeriesGroups" ColorScheme="ChartColorScheme.Custom" @key="Guid.NewGuid()" />
                 </div>
             </div>
         </div>
         <div class="col-lg-3 mb-5">
-            <div class="card h-100">
-                <div class="card-header">
-                    <h4 class="label">Column Chart</h4>
-                </div>
-                <div class="card-body">
-                    <Chart @ref="columnChart" DataSource="salesComparisonData" Animation="Animation.None" Caption="" Description=""
-                           ShowLegend="false" ShowBorderLine="false" Padding="new Padding() { Left = 5, Top = 15, Right = 25, Bottom = 5 }"
-                           XAxis="columnXAxis" SeriesGroups="columnSeriesGroups" ColorScheme="ChartColorScheme.Custom" />
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-lg-6 mb-5">
             <div class="card h-100">
                 <div class="card-header">
                     <h4 class="label">Donut Chart</h4>
@@ -79,11 +46,11 @@
                 <div class="card-body">
                     <Chart @ref="donutChart" DataSource="sourceData" Animation="Animation.None" Caption="" Description=""
                            ShowLegend="false" ShowBorderLine="false" Padding="new Padding() { Left = 5, Top = 5, Right = 5, Bottom = 5 }"
-                           SeriesGroups="donutSeriesGroups" ColorScheme="ChartColorScheme.Custom" />
+                           SeriesGroups="donutSeriesGroups" ColorScheme="ChartColorScheme.Custom" @key="Guid.NewGuid()" />
                 </div>
             </div>
         </div>
-        <div class="col-lg-6 mb-5">
+        <div class="col-lg-3 mb-5">
             <div class="card h-100">
                 <div class="card-header">
                     <h4 class="label">Pie Chart</h4>
@@ -91,13 +58,64 @@
                 <div class="card-body">
                     <Chart @ref="pieChart" DataSource="sourceData" Animation="Animation.None" Caption="" Description="" ShowLegend="false"
                            ShowBorderLine="false" Padding="new Padding() { Left = 5, Top = 5, Right = 5, Bottom = 5 }"
-                           SeriesGroups="pieSeriesGroups" ColorScheme="ChartColorScheme.Custom" />
+                           SeriesGroups="pieSeriesGroups" ColorScheme="ChartColorScheme.Custom" @key="Guid.NewGuid()" />
                 </div>
             </div>
         </div>
     </div>
     <div class="row">
-        <div class="col-lg-6 mb-5">
+        <div class="col-lg-3 mb-5">
+            <div class="card h-100">
+                <div class="card-header">
+                    <h4 class="label">Donut Chart</h4>
+                </div>
+                <div class="card-body">
+                    <Chart @ref="donutChart" DataSource="sourceData" Animation="Animation.None" Caption="" Description=""
+                           ShowLegend="false" ShowBorderLine="false" Padding="new Padding() { Left = 5, Top = 5, Right = 5, Bottom = 5 }"
+                           SeriesGroups="donutSeriesGroups" ColorScheme="ChartColorScheme.Custom" @key="Guid.NewGuid()" />
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-3 mb-5">
+            <div class="card h-100">
+                <div class="card-header">
+                    <h4 class="label">Pie Chart</h4>
+                </div>
+                <div class="card-body">
+                    <Chart @ref="pieChart" DataSource="sourceData" Animation="Animation.None" Caption="" Description="" ShowLegend="false"
+                           ShowBorderLine="false" Padding="new Padding() { Left = 5, Top = 5, Right = 5, Bottom = 5 }"
+                           SeriesGroups="pieSeriesGroups" ColorScheme="ChartColorScheme.Custom" @key="Guid.NewGuid()" />
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-3 mb-5">
+            <div class="card h-100">
+                <div class="card-header">
+                    <h4 class="label">Donut Chart</h4>
+                </div>
+                <div class="card-body">
+                    <Chart @ref="donutChart" DataSource="sourceData" Animation="Animation.None" Caption="" Description=""
+                           ShowLegend="false" ShowBorderLine="false" Padding="new Padding() { Left = 5, Top = 5, Right = 5, Bottom = 5 }"
+                           SeriesGroups="donutSeriesGroups" ColorScheme="ChartColorScheme.Custom" @key="Guid.NewGuid()" />
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-3 mb-5">
+            <div class="card h-100">
+                <div class="card-header">
+                    <h4 class="label">Pie Chart</h4>
+                </div>
+                <div class="card-body">
+                    <Chart @ref="pieChart" DataSource="sourceData" Animation="Animation.None" Caption="" Description="" ShowLegend="false"
+                           ShowBorderLine="false" Padding="new Padding() { Left = 5, Top = 5, Right = 5, Bottom = 5 }"
+                           SeriesGroups="pieSeriesGroups" ColorScheme="ChartColorScheme.Custom" @key="Guid.NewGuid()" />
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+        <div class="col-lg-3 mb-5">
             <div class="card h-100">
                 <div class="card-header">
                     <h4 class="label">Spider Chart</h4>
@@ -106,11 +124,11 @@
                     <div id="spiderChart"></div>
                     <Chart @ref="spiderChart" DataSource="interestsData" Animation="Animation.None" Caption="" Description=""
                            ShowLegend="false" ShowBorderLine="false" Padding="new Padding() { Left = 5, Top = 5, Right = 5, Bottom = 5 }"
-                           XAxis="interestsXAxis" SeriesGroups="spiderSeriesGroups" ColorScheme="ChartColorScheme.Custom" />
+                           XAxis="interestsXAxis" SeriesGroups="spiderSeriesGroups" ColorScheme="ChartColorScheme.Custom" @key="Guid.NewGuid()" />
                 </div>
             </div>
         </div>
-        <div class="col-lg-6 mb-5">
+        <div class="col-lg-3 mb-5">
             <div class="card h-100">
                 <div class="card-header">
                     <h4 class="label">Polar Chart</h4>
@@ -118,10 +136,35 @@
                 <div class="card-body">
                     <Chart @ref="polarChart" DataSource="interestsData" Animation="Animation.None" Caption="" Description=""
                            ShowLegend="false" ShowBorderLine="false" Padding="new Padding() { Left = 5, Top = 5, Right = 5, Bottom = 5 }"
-                           XAxis="interestsXAxis" SeriesGroups="polarSeriesGroups" ColorScheme="ChartColorScheme.Custom" />
+                           XAxis="interestsXAxis" SeriesGroups="polarSeriesGroups" ColorScheme="ChartColorScheme.Custom" @key="Guid.NewGuid()" />
                 </div>
             </div>
         </div>
+        <div class="col-lg-3 mb-5">
+            <div class="card h-100">
+                <div class="card-header">
+                    <h4 class="label">Line Chart</h4>
+                </div>
+                <div class="card-body">
+                    <Chart @ref="lineChart" DataSource="salesData" Animation="Animation.None" Caption="" Description=""
+                           ShowLegend="false" ShowBorderLine="false" Padding="new Padding() { Left = 5, Top = 15, Right = 25, Bottom = 5 }"
+                           XAxis="lineXAxis" SeriesGroups="lineSeriesGroups" ColorScheme="ChartColorScheme.Custom" OnReady="OnReady" @key="Guid.NewGuid()" />
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-3 mb-5">
+            <div class="card h-100">
+                <div class="card-header">
+                    <h4 class="label">Column Chart</h4>
+                </div>
+                <div class="card-body">
+                    <Chart @ref="columnChart" DataSource="salesComparisonData" Animation="Animation.None" Caption="" Description=""
+                           ShowLegend="false" ShowBorderLine="false" Padding="new Padding() { Left = 5, Top = 15, Right = 25, Bottom = 5 }"
+                           XAxis="columnXAxis" SeriesGroups="columnSeriesGroups" ColorScheme="ChartColorScheme.Custom" @key="Guid.NewGuid()" />
+                </div>
+            </div>
+        </div>
+
     </div>
 </div>
 @code {
@@ -133,18 +176,18 @@
     Chart polarChart;
     List<Dictionary<string, object>> salesData = new List<Dictionary<string, object>>()
     {
-        new Dictionary<string, object> { { "month", "Jan" }, { "sales", 22330 }, { "orders", 9302 } },
-        new Dictionary<string, object> { { "month", "Feb" }, { "sales", 21323 }, { "orders", 8902 } },
-        new Dictionary<string, object> { { "month", "Mar" }, { "sales", 28200 }, { "orders", 10043 } },
-        new Dictionary<string, object> { { "month", "Apr" }, { "sales", 31889 }, { "orders", 10992 } },
-        new Dictionary<string, object> { { "month", "May" }, { "sales", 30056 }, { "orders", 9980 } },
-        new Dictionary<string, object> { { "month", "Jun" }, { "sales", 42024 }, { "orders", 13489 } },
-        new Dictionary<string, object> { { "month", "Jul" }, { "sales", 44995 }, { "orders", 19048 } },
-        new Dictionary<string, object> { { "month", "Aug" }, { "sales", 41045 }, { "orders", 12334 } },
-        new Dictionary<string, object> { { "month", "Sep" }, { "sales", 38012 }, { "orders", 11102 } },
-        new Dictionary<string, object> { { "month", "Oct" }, { "sales", 40045 }, { "orders", 11894 } },
-        new Dictionary<string, object> { { "month", "Nov" }, { "sales", 27542 }, { "orders", 8301 } },
-        new Dictionary<string, object> { { "month", "Dec" }, { "sales", 29012 }, { "orders", 10632 } }
+        new Dictionary<string, object> { { "month", "Jan" }, { "sales", 2000000 }, { "orders", 1  } },
+        new Dictionary<string, object> { { "month", "Feb" }, { "sales", 2020000 }, { "orders", 8902 } },
+        new Dictionary<string, object> { { "month", "Mar" }, { "sales", 2100000 }, { "orders", 10043 } },
+        new Dictionary<string, object> { { "month", "Apr" }, { "sales", 2001000 }, { "orders", 10992 } },
+        new Dictionary<string, object> { { "month", "May" }, { "sales", 2200000 }, { "orders", 9980 } },
+        new Dictionary<string, object> { { "month", "Jun" }, { "sales", 2600000 }, { "orders", 13489 } },
+        new Dictionary<string, object> { { "month", "Jul" }, { "sales", 2040000 }, { "orders", 19048 } },
+        new Dictionary<string, object> { { "month", "Aug" }, { "sales", 2900000 }, { "orders", 12334 } },
+        new Dictionary<string, object> { { "month", "Sep" }, { "sales", 2100000 }, { "orders", 11102 } },
+        new Dictionary<string, object> { { "month", "Oct" }, { "sales", 3000000 }, { "orders", 11894 } },
+        new Dictionary<string, object> { { "month", "Nov" }, { "sales", 3100000 }, { "orders", 8301 } },
+        new Dictionary<string, object> { { "month", "Dec" }, { "sales", 2901200 }, { "orders", 10632 } }
     };
     List<Dictionary<string, object>> salesComparisonData = new List<Dictionary<string, object>>()
     {
@@ -154,7 +197,8 @@
         new Dictionary<string, object> { { "month", "Apr" }, { "current", 82 }, { "last", 81 } },
         new Dictionary<string, object> { { "month", "May" }, { "current", 93 }, { "last", 99 } },
         new Dictionary<string, object> { { "month", "Jun" }, { "current", 112 }, { "last", 112 } },
-        new Dictionary<string, object> { { "month", "Jul" }, { "current", 130 }, { "last", 129 } },
+        new Dictionary<string, object> { { "month", "Jul" }, { "current", 130 }, { "last", 129      
+                                                                                                                                                                                                                 } },
         new Dictionary<string, object> { { "month", "Aug" }, { "current", 118 }, { "last", 125 } },
         new Dictionary<string, object> { { "month", "Sep" }, { "current", 92 }, { "last", 99 } },
         new Dictionary<string, object> { { "month", "Oct" }, { "current", 75 }, { "last", 83 } },
@@ -290,7 +334,7 @@
             }
         }
     };
-    List<string> customScheme = new List<string>() { "#007bff", "#17a2b8", "#ffc107", "#28a745", "#dc3545", "#6c757d" };
+    List<string> customScheme = new List<string>() { "#d00000", "#03071e", "#faa307", "#9d0208", "#d00000", "#dc2f02" };
     private void OnReady(Chart chart)
     {
         lineChart.AddColorScheme("custom", customScheme);
@@ -306,7 +350,4 @@
         spiderChart.Refresh();
         polarChart.Refresh();
     }
-}
-
-@code {
 }
