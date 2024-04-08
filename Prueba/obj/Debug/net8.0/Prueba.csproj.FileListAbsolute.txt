@@ -3109,3 +3109,5 @@ C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\obj\Debug\net8.0\webcil\Smart.Blazor
 C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\obj\Debug\net8.0\compressed\rrrv1ri5dm.gz
 C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\obj\Debug\net8.0\compressed\oei0aze0h8.gz
 C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\obj\Debug\net8.0\scopedcss\Pages\Comerciales.razor.rz.scp.css
+C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\obj\Debug\net8.0\scopedcss\Layout\Logintmb.razor.rz.scp.css
+C:\Juan Manuel\DashboardTMBBlazorWeb\Prueba\obj\Debug\net8.0\scopedcss\Pages\LoginRegister.razor.rz.scp.css

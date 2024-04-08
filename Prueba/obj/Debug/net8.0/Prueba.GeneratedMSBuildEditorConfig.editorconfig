@@ -26,13 +26,13 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Juan Manuel/DashboardTMBBlazorWeb/Prueba/Layout/Logintmb.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XExvZ2ludG1iLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Juan Manuel/DashboardTMBBlazorWeb/Prueba/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Juan Manuel/DashboardTMBBlazorWeb/Prueba/Layout/Logintmb.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XExvZ2ludG1iLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-0cpj3mw791
 
 [C:/Juan Manuel/DashboardTMBBlazorWeb/Prueba/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
@@ -53,6 +53,10 @@ build_metadata.AdditionalFiles.CssScope = b-4wt1fd0ebt
 [C:/Juan Manuel/DashboardTMBBlazorWeb/Prueba/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-2qjg7rv6yy
+
+[C:/Juan Manuel/DashboardTMBBlazorWeb/Prueba/Pages/LoginRegister.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5SZWdpc3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-94p5z1q2x7
 
 [C:/Juan Manuel/DashboardTMBBlazorWeb/Prueba/Pages/Tmb.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG1iLnJhem9y
